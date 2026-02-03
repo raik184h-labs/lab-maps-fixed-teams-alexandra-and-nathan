@@ -1,0 +1,6 @@
+
+*.class
+.settings/org.eclipse.jdt.core.prefs
+
+.DS_STORE
+*/.DS_STORE
